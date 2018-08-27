@@ -15,6 +15,10 @@
     "number",
     "format"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:ramtinsoltani/chisel-addon-phone.git"
+  },
   "author": "Ramtin Soltani <ramtin@chiselpowered.com>",
   "license": "MIT",
   "dependencies": {
